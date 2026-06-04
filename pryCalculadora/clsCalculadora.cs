@@ -42,5 +42,7 @@ namespace pryCalculadora
             Resultado = Numero1 / Numero2;
             return Resultado;
         }
+
+        hice esto 
     }
 }
