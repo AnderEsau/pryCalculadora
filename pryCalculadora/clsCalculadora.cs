@@ -40,5 +40,8 @@
 
         public float potencia;
         //Hice esto ander
+
+        public string nombrePotencia;
+        //Hice esto samantha
     }
 }
