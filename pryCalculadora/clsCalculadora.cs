@@ -43,5 +43,7 @@
 
         public float cuadratica;
         // Hice esto lary
+        public string nombrePotencia;
+        //Hice esto samantha
     }
 }
