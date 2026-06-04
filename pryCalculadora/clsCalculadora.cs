@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace pryCalculadora
+﻿namespace pryCalculadora
 {
     internal class clsCalculadora
     {
@@ -36,13 +30,15 @@ namespace pryCalculadora
             Resultado = Numero1 * Numero2;
             return Resultado;
         }
-        
+
         public float Dividir()
         {
             Resultado = Numero1 / Numero2;
             return Resultado;
         }
+        //Leo hizo eso
 
-        hice esto 
+        public float potencia;
+        //Hice esto ander
     }
 }
