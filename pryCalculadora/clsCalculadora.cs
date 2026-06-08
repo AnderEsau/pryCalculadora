@@ -40,5 +40,6 @@
 
         public float potencia;
         //Hice esto ander
+        public float ejemplo;
     }
 }
