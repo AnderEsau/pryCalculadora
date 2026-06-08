@@ -42,7 +42,8 @@
         //Hice esto ander
 
         public float cuadratica;
-        // Hice esto lary
+        // Hice esto lary baruc
+        public float ejemplo;
         public string nombrePotencia;
         //Hice esto samantha
     }
